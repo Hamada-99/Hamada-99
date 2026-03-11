@@ -39,7 +39,7 @@
 
 ## 📫 Kontakt
 
-🌐 [Webseite öffnen](contact.html)
+🌐 [Webseite öffnen](https://USERNAME.github.io/REPOSITORY/contact.html)
 
 ---
 
