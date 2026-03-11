@@ -1,7 +1,9 @@
 # 👋 Hi, ich bin Hamada
 
 💻 Ich interessiere mich für IT, Systemintegration und moderne Technologien.
+
 🚀 Ich arbeite gerne an Projekten rund um Netzwerke, Systeme und IT-Infrastruktur, um meine Fähigkeiten zu verbessern.
+
 📚 Mein Ziel ist es, mich ständig weiterzuentwickeln und praktische Erfahrung im Bereich Systemintegration zu sammeln.
 
 ---
